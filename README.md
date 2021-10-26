@@ -5,7 +5,7 @@ This is a docker image based on [lamp](https://registry.hub.docker.com/u/tutum/l
 Build image:
 
 ```bash
-docker build -t xvwa
+docker build -t xvwa .
 ```
 
 Start container:
